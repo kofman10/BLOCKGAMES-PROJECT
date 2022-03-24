@@ -1,18 +1,13 @@
-# Basic Sample Hardhat Project
+IPFS LINK: https://ipfs.io/ipfs/bafkreibba7x7fffxdlfwzxmcyyjszm4cnge7x2peednrm7dev3n332rl6e
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+erc 721 etherscan: https://rinkeby.etherscan.io/address/0xE34833BAf8589f804F2efa3CABF374C8532e1bAD
+erc20 etherscan: https://rinkeby.etherscan.io/address/0xcf99a673b93f97af7cb670c01c3f787dc9945859
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
 {
-    "name": Kofman
+ "name": "Kofman Yatch Club",
+ "description": "The first NFT i minted",
+ "image": https://ipfs.io/ipfs/bafkreibba7x7fffxdlfwzxmcyyjszm4cnge7x2peednrm7dev3n332rl6e,
+ "properties": [{
+   "trait": "cool"
+ }]
 }
